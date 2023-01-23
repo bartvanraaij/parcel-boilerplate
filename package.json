@@ -1,0 +1,30 @@
+{
+  "name": "parcel-boilerplate",
+  "version": "1.0.0",
+  "description": "Bart's Parcel boilerplate project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartvanraaij/parcel-trial.git"
+  },
+  "license": "MIT",
+  "author": "Bart van Raaij <info@bartvanraaij.nl> (https://bartvanraaij.dev)",
+  "source": "src/index.html",
+  "scripts": {
+    "build": "parcel build",
+    "dev": "parcel",
+    "lint": "eslint src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "browserslist": [
+    "defaults"
+  ],
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "@typescript-eslint/eslint-plugin": "^5.48.2",
+    "@typescript-eslint/parser": "^5.48.2",
+    "eslint": "^8.32.0",
+    "eslint-config-semistandard": "^17.0.0",
+    "parcel": "^2.8.3",
+    "typescript": "^4.9.4"
+  }
+}

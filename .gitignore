@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Parcel
+.parcel-cache/
+dist/
+
+# Jetbrains IDE
+.idea/
+
+# Misc
+.DS_Store
+Thumbs.db
+npm-debug.log*
