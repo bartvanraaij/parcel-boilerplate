@@ -1,10 +1,10 @@
 # parcel-boilerplate
 
 Boilerplate project with:
-- Parcel
-- Eslint
-- Typescript
-- Sass
+- [Parcel](https://github.com/parcel-bundler/parcel)
+- [Eslint](https://github.com/eslint/eslint)
+- [Typescript](https://github.com/microsoft/TypeScript)
+- [Sass](https://github.com/sass/sass)
 
 ## Getting started
 
