@@ -10,7 +10,7 @@
   "author": "Bart van Raaij <info@bartvanraaij.nl> (https://bartvanraaij.dev)",
   "source": "src/index.html",
   "scripts": {
-    "build": "run -s clean build:parcel",
+    "build": "run-s clean build:parcel",
     "build:parcel": "parcel build",
     "clean": "rimraf dist",
     "dev": "run-s clean dev:parcel",
